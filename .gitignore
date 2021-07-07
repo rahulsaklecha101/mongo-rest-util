@@ -1,0 +1,19 @@
+## Build output
+/target
+*.class
+
+# Log file
+*.log
+
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# IDE
+.idea/
+*.iml
+.settings/
+.project
+.classpath
